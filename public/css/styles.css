@@ -1,0 +1,32 @@
+.home-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+.notes-div {
+    padding: 100px;
+}
+.notes-btn {
+    color: white;
+    background-color: midnightblue;
+}
+.notes-btn:hover {
+    background-color: indigo;
+    color: white;
+}
+.notes-desc {
+    background: khaki; 
+    border-radius: 0 0 35px 0; 
+    width:-webkit-fill-available; 
+    height:200px !important;
+}
+.notes-title {
+    background: beige;
+}
+body {
+    background: lavender;
+}
+h1, h3, th {
+    color: midnightblue;
+}
